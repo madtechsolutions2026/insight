@@ -1,0 +1,1 @@
+{"name":"insight-studio","version":"1.0.0","private":true,"type":"module","scripts":{"build:motion":"esbuild src/motion.jsx --bundle --minify --format=esm --outfile=dist/motion.js","check":"node check.cjs"},"dependencies":{"react":"^19.2.0","react-dom":"^19.2.0","motion":"^14.9.0"},"devDependencies":{"esbuild":"^0.25.0"}}
